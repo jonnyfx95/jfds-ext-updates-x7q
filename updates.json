@@ -1,7 +1,16 @@
 {
   "addons": {
     "jira-deda-tools@deda-next.it": {
-      "updates": []
+      "updates": [
+        {
+          "version": "26.199.0",
+          "update_link": "https://raw.githubusercontent.com/jonnyfx95/jfds-ext-updates-x7q/main/xpi/jfds-tools-26.199.0.xpi",
+          "update_hash": "sha256:70b3267e2e57617a4f8ff5671683e5d79d60ca0d25842731a933adc28f71f9fc",
+          "applications": {
+            "gecko": { "strict_min_version": "109.0" }
+          }
+        }
+      ]
     }
   }
 }
