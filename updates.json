@@ -3,6 +3,16 @@
                    "jira-deda-tools@deda-next.it":  {
                                                         "updates":  [
                                                                         {
+                                                                            "version":  "26.205.1",
+                                                                            "update_link":  "https://raw.githubusercontent.com/jonnyfx95/jfds-ext-updates-x7q/main/xpi/jfds-tools-26.205.1.xpi",
+                                                                            "update_hash":  "sha256:75ddcff0c50b6b19b201809c2f5fe3a39b8bbee66c4652f83dbb7867cc5c11f6",
+                                                                            "applications":  {
+                                                                                                 "gecko":  {
+                                                                                                               "strict_min_version":  "109.0"
+                                                                                                           }
+                                                                                             }
+                                                                        },
+                                                                        {
                                                                             "version":  "26.204.8",
                                                                             "update_link":  "https://raw.githubusercontent.com/jonnyfx95/jfds-ext-updates-x7q/main/xpi/jfds-tools-26.204.8.xpi",
                                                                             "update_hash":  "sha256:7baf0f77c6d23e9e2670b12d649a78c6a83f2a7e6cec9ec333ef11ec0d45c642",
@@ -16,16 +26,6 @@
                                                                             "version":  "26.204.7",
                                                                             "update_link":  "https://raw.githubusercontent.com/jonnyfx95/jfds-ext-updates-x7q/main/xpi/jfds-tools-26.204.7.xpi",
                                                                             "update_hash":  "sha256:ed422154b6b1e8c2ffc157517586a7f56bd7bf5e5eaccef36084ef78ced4c668",
-                                                                            "applications":  {
-                                                                                                 "gecko":  {
-                                                                                                               "strict_min_version":  "109.0"
-                                                                                                           }
-                                                                                             }
-                                                                        },
-                                                                        {
-                                                                            "version":  "26.204.6",
-                                                                            "update_link":  "https://raw.githubusercontent.com/jonnyfx95/jfds-ext-updates-x7q/main/xpi/jfds-tools-26.204.6.xpi",
-                                                                            "update_hash":  "sha256:d0c0c70979555c1b729821e5bca475c7a56bba8281f2a5152c40602c80a630c7",
                                                                             "applications":  {
                                                                                                  "gecko":  {
                                                                                                                "strict_min_version":  "109.0"
